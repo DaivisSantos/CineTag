@@ -1,0 +1,14 @@
+section{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    h1{
+        font-size: 2em;
+        margin-top: 3em;
+    }
+    img{
+        width: 30%;
+        height: 100%;
+        margin-bottom: 3em;
+    }
+}

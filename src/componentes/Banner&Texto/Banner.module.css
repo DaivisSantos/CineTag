@@ -1,0 +1,19 @@
+.Banner {
+    position: relative;
+    width: 100%;
+    height: calc(100%);
+    min-height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    font-size: 10px;
+    font-weight: 200px;
+    font-family: var(--font);
+    color: rgb(117, 99, 255);
+}
